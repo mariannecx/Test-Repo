@@ -50,4 +50,4 @@ and you'll want to RAM your ROM.
 Quickly turn off the computer and be
 sure to tell your Mom!
 
-Author: Dr Suess
+- Dr Suess

@@ -1,5 +1,3 @@
-This is test file B!
-
 # Poem Title: Dr Suess
 
 If a packet hits a pocket on a socket
